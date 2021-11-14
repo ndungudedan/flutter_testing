@@ -19,3 +19,4 @@ To add json snippet on VS Code
 Press Ctrl + Shift + P
 Type snippets and select Configure User Snippets and press enter
 Select dart and replace the contents with the json in assets/stacked_snippets.json
+ Courtesy of https://gist.github.com/FilledStacks/b57b77da10fdcb2d4d95a28de4a4ced4
